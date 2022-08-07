@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp"
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\system32\\cmd.exe"
+}
